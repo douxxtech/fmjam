@@ -11,7 +11,7 @@ Installation:
 ---
 
 git clone https://github.com/douxxtech/fmjam
-cd fmjam
+cd fmjam/src
 make
 
 ---
