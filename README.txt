@@ -2,7 +2,7 @@ FmJam - An "FM Jammer" built for Raspberry Pi devices.
 
 Please do not use this software in public places or large coverage areas.
 This tool is intended solely for educational purposes, such as experimenting with harmonics.
-I (Douxx [douxx@douxx.tech](mailto:douxx@douxx.tech)) decline all responsibility for any misuse of this tool by others.
+I (Douxx <douxx@douxx.tech>) decline all responsibility for any misuse of this tool by others.
 
 Pi zero, 1, 2, 3, 4 are thorically supported.
 
