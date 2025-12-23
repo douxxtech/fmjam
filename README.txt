@@ -16,5 +16,8 @@ make
 
 ---
 
+Usage:
+sudo ./fmjam
+
 This project, like the original work (bw_custom), is licensed under GPLv3.0.
 The license can be found in the LICENSE file or at https://www.gnu.org/licenses/gpl-3.0.en.html .
